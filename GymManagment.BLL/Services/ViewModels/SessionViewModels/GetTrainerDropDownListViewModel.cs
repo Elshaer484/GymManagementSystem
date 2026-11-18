@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace GymManagment.BLL.Services.ViewModels.SessionViewModels
+{
+    public class GetTrainerDropDownListViewModel
+    {
+        public int Id { get; set; }
+
+        public string? Name { get; set; }
+    }
+}
