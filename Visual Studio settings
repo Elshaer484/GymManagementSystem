@@ -1,6 +1,0 @@
-1. Open Tools > Options.
-2. Select IntelliCode > General.
-3. Enable “Whole line completions”.
-4. Select OK.
-
-If IntelliCode is unavailable, install or enable the IntelliCode component through Visual Studio Installer.
